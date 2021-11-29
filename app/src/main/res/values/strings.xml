@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="createcity_title">New city name ?</string>
+    <string name="create_city_positive">Create city</string>
+    <string name="create_city_negative">Cancel</string>
+    <string name="create_city_hint">New York, London...</string>
+    <string name="menu_create_city">Crate city</string>
+    
+    <string name="deletecity_title">Do you really want to delete %1$s ?</string>
+</resources>
